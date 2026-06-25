@@ -1,4 +1,4 @@
 # Demo Application
 this  is my first git repository
 <br>
-Author : Rajashri Dhere
+Author : Rajashri Dhere (Software Developer)
